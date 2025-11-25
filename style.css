@@ -122,13 +122,10 @@ h2 {
 }
 
 /* Projects */
-.projects-card {
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 25px;
-}
+
 
 .project-card {
+    gap: 25px; 
     padding: 25px;
     border-radius: 10px;
     border: 1px solid #e6e6e6;
@@ -150,9 +147,9 @@ h2 {
 
 /* Skills */
 .skills {
-    display: grid;
+display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 25px;
+    gap: 25px;  
 }
 
 .skills-box {

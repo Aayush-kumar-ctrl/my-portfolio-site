@@ -3,138 +3,124 @@
         "title": "Real-Time Object Detection",
         "description": "Detects 80+ objects using YOLOv8 and OpenCV.",
         "tech": "Python • YOLO • OpenCV",
-        "github": "https://github.com/yourrepo/object-detection"
+        "github": "https://github.com/Aayush-kumar-ctrl/object-detection"
     },
     {
         "title": "AI Image Generator",
         "description": "Generate AI images using Puter SDK.",
-        "tech": "JavaScript • API",
-        "github": "https://github.com/yourrepo/ai-image-generator"
+        "tech": "JavaScript • Html • CSS",
+        "github": "https://github.com/Aayush-kumar-ctrl/ai-image-generator"
     },
     {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Portfolio Website",
+        "description": "Website for schowcasing my work.",
+        "tech": "JS • HTML • CSS ",
+        "github": "https://github.com/Aayush-kumar-ctrl/my-portfolio-site"
     },
 
      {
         "title": "AI Video Generator",
         "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "tech": "JavaScript • Html • CSS",
+        "github": "https://github.com/Aayush-kumar-ctrl/ai-video-generator"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "AI Chatbot ",
+        "description": "Chatbot Like ChatGpt.",
+        "tech": "JavaScript • Html • CSS",
+        "github": "https://github.com/Aayush-kumar-ctrl/my-ai-chatbot"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Business Chatbot",
+        "description": "ChatBot for Business Websites.",
+        "tech": "JS • HTML • CSS",
+        "github": "https://github.com/Aayush-kumar-ctrl/my-chatbot"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Sneakers E-commerce Site",
+        "description": "E-commerce Site for sneakers brand.",
+        "tech": "JS • HTML • CSS",
+        "github": "https://github.com/Aayush-kumar-ctrl/Seakers-site"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "ChatBot",
+        "description": "ChatBot for Business Related Querries.",
+        "tech": "JavaScript • Html • CSS",
+        "github": "https://github.com/Aayush-kumar-ctrl/chatbot"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Buzzer Project",
+        "description": "Buzzer Activated on clicking the button.",
+        "tech": "HTML",
+        "github": "https://github.com/Aayush-kumar-ctrl/buzzer-project"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Demo Portfolio Website 2.0 ",
+        "description": "Portfolio Website For Projects Showcase.",
+        "tech": "HTML",
+        "github": "https://github.com/Aayush-kumar-ctrl/portfolio_site_2.0"
+},
+
+     {
+        "title": "Stock Price Predictor",
+        "description": "Algorithm for stock price prdiction .",
+        "tech": "Python",
+        "github": "https://github.com/Aayush-kumar-ctrl/stock-price-prediction"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Demo Portfolio Website",
+        "description": "Demo portfolio website.",
+        "tech": "JS",
+        "github": "https://github.com/Aayush-kumar-ctrl/portfolio-site"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Falling Bricks Game",
+        "description": "A fun game of falling bricks.",
+        "tech": "Python",
+        "github": "https://github.com/Aayush-kumar-ctrl/falling-brick"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Music Player",
+        "description": "Music Player ",
+        "tech": "HTML",
+        "github": "https://github.com/Aayush-kumar-ctrl/Music-player"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "AI Resume Evaluator",
+        "description": "Resume evaluator using AI.",
+        "tech": "JS",
+        "github": "https://github.com/Aayush-kumar-ctrl/resume-evaluator"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Hand Gesture Media Controller",
+        "description": "Control media using hand gestures.",
+        "tech": "Python",
+        "github": "https://github.com/Aayush-kumar-ctrl/hand_gesture_media_player"
     },
 
      {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
-    },
-
-     {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
-    },
-
-    {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Quiz App",
+        "description": "A fun quiz game.",
+        "tech": "JS",
+        "github": "https://github.com/Aayush-kumar-ctrl/quiz-app"
     },
 
     {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
-    },
-
-    {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JS • AI",
-        "github": "https://github.com/yourrepo/video-generator"
+        "title": "Calculator App",
+        "description": "A simple calculator application.",
+        "tech": "JS",
+        "github": "https://github.com/Aayush-kumar-ctrl/chatgpt-calculator"
     }
 
 ]

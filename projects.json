@@ -1,129 +1,130 @@
 [
-    {
-        "title": "Real-Time Object Detection",
-        "description": "Detects 80+ objects using YOLOv8 and OpenCV.",
-        "tech": "Python • YOLO • OpenCV",
-        "github": "https://github.com/Aayush-kumar-ctrl/object-detection"
+  {
+    "title": "Real-Time Object Detection",
+    "description": "Detects 80+ objects using YOLOv8 and OpenCV.",
+    "tech": "Python • YOLO • OpenCV",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
+    "github": "https://github.com/Aayush-kumar-ctrl/object-detection"
+  },
+  {
+    "title": "AI Image Generator",
+    "description": "Generate AI images using Puter SDK.",
+    "tech": "JavaScript • Html • CSS",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
+    "github": "https://github.com/Aayush-kumar-ctrl/ai-image-generator"
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "Website for schowcasing my work.",
+    "tech": "JS • HTML • CSS ",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
+    "github": "https://github.com/Aayush-kumar-ctrl/my-portfolio-site"
+  },
 
-    },
-    {
-        "title": "AI Image Generator",
-        "description": "Generate AI images using Puter SDK.",
-        "tech": "JavaScript • Html • CSS",
-        "github": "https://github.com/Aayush-kumar-ctrl/ai-image-generator"
+  {
+    "title": "AI Video Generator",
+    "description": "Creates AI-powered videos from prompts.",
+    "tech": "JavaScript • Html • CSS",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
+    "github": "https://github.com/Aayush-kumar-ctrl/ai-video-generator"
+  },
 
-    },
-    {
-        "title": "Portfolio Website",
-        "description": "Website for schowcasing my work.",
-        "tech": "JS • HTML • CSS ",
-        "github": "https://github.com/Aayush-kumar-ctrl/my-portfolio-site"
-    },
+  {
+    "title": "AI Chatbot ",
+    "description": "Chatbot Like ChatGpt.",
+    "tech": "JavaScript • Html • CSS",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
+    "github": "https://github.com/Aayush-kumar-ctrl/my-ai-chatbot"
+  },
 
-     {
-        "title": "AI Video Generator",
-        "description": "Creates AI-powered videos from prompts.",
-        "tech": "JavaScript • Html • CSS",
-        "github": "https://github.com/Aayush-kumar-ctrl/ai-video-generator"
-    },
+  {
+    "title": "Business Chatbot",
+    "description": "ChatBot for Business Websites.",
+    "tech": "JS • HTML • CSS",
+    "github": "https://github.com/Aayush-kumar-ctrl/my-chatbot"
+  },
 
-     {
-        "title": "AI Chatbot ",
-        "description": "Chatbot Like ChatGpt.",
-        "tech": "JavaScript • Html • CSS",
-        "github": "https://github.com/Aayush-kumar-ctrl/my-ai-chatbot"
-    },
+  {
+    "title": "Sneakers E-commerce Site",
+    "description": "E-commerce Site for sneakers brand.",
+    "tech": "JS • HTML • CSS",
+    "github": "https://github.com/Aayush-kumar-ctrl/Seakers-site"
+  },
 
-     {
-        "title": "Business Chatbot",
-        "description": "ChatBot for Business Websites.",
-        "tech": "JS • HTML • CSS",
-        "github": "https://github.com/Aayush-kumar-ctrl/my-chatbot"
-    },
+  {
+    "title": "ChatBot",
+    "description": "ChatBot for Business Related Querries.",
+    "tech": "JavaScript • Html • CSS",
+    "github": "https://github.com/Aayush-kumar-ctrl/chatbot"
+  },
 
-     {
-        "title": "Sneakers E-commerce Site",
-        "description": "E-commerce Site for sneakers brand.",
-        "tech": "JS • HTML • CSS",
-        "github": "https://github.com/Aayush-kumar-ctrl/Seakers-site"
+  {
+    "title": "Buzzer Project",
+    "description": "Buzzer Activated on clicking the button.",
+    "tech": "HTML",
+    "github": "https://github.com/Aayush-kumar-ctrl/buzzer-project"
+  },
 
-    },
+  {
+    "title": "Demo Portfolio Website 2.0 ",
+    "description": "Portfolio Website For Projects Showcase.",
+    "tech": "HTML",
+    "github": "https://github.com/Aayush-kumar-ctrl/portfolio_site_2.0"
+  },
 
-     {
-        "title": "ChatBot",
-        "description": "ChatBot for Business Related Querries.",
-        "tech": "JavaScript • Html • CSS",
-        "github": "https://github.com/Aayush-kumar-ctrl/chatbot"
-    },
+  {
+    "title": "Stock Price Predictor",
+    "description": "Algorithm for stock price prdiction .",
+    "tech": "Python",
+    "github": "https://github.com/Aayush-kumar-ctrl/stock-price-prediction"
+  },
 
-     {
-        "title": "Buzzer Project",
-        "description": "Buzzer Activated on clicking the button.",
-        "tech": "HTML",
-        "github": "https://github.com/Aayush-kumar-ctrl/buzzer-project"
-    },
+  {
+    "title": "Demo Portfolio Website",
+    "description": "Demo portfolio website.",
+    "tech": "JS",
+    "github": "https://github.com/Aayush-kumar-ctrl/portfolio-site"
+  },
 
-     {
-        "title": "Demo Portfolio Website 2.0 ",
-        "description": "Portfolio Website For Projects Showcase.",
-        "tech": "HTML",
-        "github": "https://github.com/Aayush-kumar-ctrl/portfolio_site_2.0"
-},
+  {
+    "title": "Falling Bricks Game",
+    "description": "A fun game of falling bricks.",
+    "tech": "Python",
+    "github": "https://github.com/Aayush-kumar-ctrl/falling-brick"
+  },
 
-     {
-        "title": "Stock Price Predictor",
-        "description": "Algorithm for stock price prdiction .",
-        "tech": "Python",
-        "github": "https://github.com/Aayush-kumar-ctrl/stock-price-prediction"
-    },
+  {
+    "title": "Music Player",
+    "description": "Music Player ",
+    "tech": "HTML",
+    "github": "https://github.com/Aayush-kumar-ctrl/Music-player"
+  },
 
-     {
-        "title": "Demo Portfolio Website",
-        "description": "Demo portfolio website.",
-        "tech": "JS",
-        "github": "https://github.com/Aayush-kumar-ctrl/portfolio-site"
-    },
+  {
+    "title": "AI Resume Evaluator",
+    "description": "Resume evaluator using AI.",
+    "tech": "JS",
+    "github": "https://github.com/Aayush-kumar-ctrl/resume-evaluator"
+  },
 
-     {
-        "title": "Falling Bricks Game",
-        "description": "A fun game of falling bricks.",
-        "tech": "Python",
-        "github": "https://github.com/Aayush-kumar-ctrl/falling-brick"
-    },
+  {
+    "title": "Hand Gesture Media Controller",
+    "description": "Control media using hand gestures.",
+    "tech": "Python",
+    "github": "https://github.com/Aayush-kumar-ctrl/hand_gesture_media_player"
+  },
 
-     {
-        "title": "Music Player",
-        "description": "Music Player ",
-        "tech": "HTML",
-        "github": "https://github.com/Aayush-kumar-ctrl/Music-player"
-    },
+  {
+    "title": "Quiz App",
+    "description": "A fun quiz game.",
+    "tech": "JS",
+    "github": "https://github.com/Aayush-kumar-ctrl/quiz-app"
+  },
 
-     {
-        "title": "AI Resume Evaluator",
-        "description": "Resume evaluator using AI.",
-        "tech": "JS",
-        "github": "https://github.com/Aayush-kumar-ctrl/resume-evaluator"
-    },
-
-     {
-        "title": "Hand Gesture Media Controller",
-        "description": "Control media using hand gestures.",
-        "tech": "Python",
-        "github": "https://github.com/Aayush-kumar-ctrl/hand_gesture_media_player"
-    },
-
-     {
-        "title": "Quiz App",
-        "description": "A fun quiz game.",
-        "tech": "JS",
-        "github": "https://github.com/Aayush-kumar-ctrl/quiz-app"
-    },
-
-    {
-        "title": "Calculator App",
-        "description": "A simple calculator application.",
-        "tech": "JS",
-        "github": "https://github.com/Aayush-kumar-ctrl/chatgpt-calculator"
-    }
-
+  {
+    "title": "Calculator App",
+    "description": "A simple calculator application.",
+    "tech": "JS",
+    "github": "https://github.com/Aayush-kumar-ctrl/chatgpt-calculator"
+  }
 ]

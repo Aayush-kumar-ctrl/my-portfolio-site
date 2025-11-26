@@ -89,6 +89,7 @@
     "title": "Demo Portfolio Website",
     "description": "Demo portfolio website.",
     "tech": "JS",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
     "github": "https://github.com/Aayush-kumar-ctrl/portfolio-site"
   },
 
@@ -96,6 +97,7 @@
     "title": "Falling Bricks Game",
     "description": "A fun game of falling bricks.",
     "tech": "Python",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
     "github": "https://github.com/Aayush-kumar-ctrl/falling-brick"
   },
 
@@ -103,6 +105,7 @@
     "title": "Music Player",
     "description": "Music Player ",
     "tech": "HTML",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
     "github": "https://github.com/Aayush-kumar-ctrl/Music-player"
   },
 
@@ -110,6 +113,7 @@
     "title": "AI Resume Evaluator",
     "description": "Resume evaluator using AI.",
     "tech": "JS",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
     "github": "https://github.com/Aayush-kumar-ctrl/resume-evaluator"
   },
 
@@ -117,6 +121,7 @@
     "title": "Hand Gesture Media Controller",
     "description": "Control media using hand gestures.",
     "tech": "Python",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
     "github": "https://github.com/Aayush-kumar-ctrl/hand_gesture_media_player"
   },
 
@@ -124,6 +129,7 @@
     "title": "Quiz App",
     "description": "A fun quiz game.",
     "tech": "JS",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
     "github": "https://github.com/Aayush-kumar-ctrl/quiz-app"
   },
 
@@ -131,6 +137,8 @@
     "title": "Calculator App",
     "description": "A simple calculator application.",
     "tech": "JS",
-    "github": "https://github.com/Aayush-kumar-ctrl/chatgpt-calculator"
+    "github": "https://github.com/Aayush-kumar-ctrl/chatgpt-calculator",
+    "demo": "https://youtu.be/1gU4hL3K0mA"
+
   }
 ]

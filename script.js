@@ -24,12 +24,17 @@ fetch("projects.json")
             card.innerHTML = `
                 <h3>${p.title}</h3>
                 <p>${p.description}</p>
-                <span class="tech">${p.tech}</span><br>
-                <a href="${p.github}" target="_blank" class="project-btn">GitHub</a>
+                <span class="tech">${p.tech}</span>
+
+                <div class="buttons">
+                    <a href="${p.github}" target="_blank" class="btn">GitHub</a>
+                    <a href="${p.demo}" target="_blank" class="btn">Demo Video</a>
+                </div>
             `;
 
             container.appendChild(card);
         });
     })
     .catch(err => console.error("Error loading projects:", err));
+
 

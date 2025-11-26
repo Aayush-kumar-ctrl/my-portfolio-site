@@ -4,12 +4,14 @@
         "description": "Detects 80+ objects using YOLOv8 and OpenCV.",
         "tech": "Python • YOLO • OpenCV",
         "github": "https://github.com/Aayush-kumar-ctrl/object-detection"
+
     },
     {
         "title": "AI Image Generator",
         "description": "Generate AI images using Puter SDK.",
         "tech": "JavaScript • Html • CSS",
         "github": "https://github.com/Aayush-kumar-ctrl/ai-image-generator"
+
     },
     {
         "title": "Portfolio Website",
@@ -44,6 +46,7 @@
         "description": "E-commerce Site for sneakers brand.",
         "tech": "JS • HTML • CSS",
         "github": "https://github.com/Aayush-kumar-ctrl/Seakers-site"
+
     },
 
      {

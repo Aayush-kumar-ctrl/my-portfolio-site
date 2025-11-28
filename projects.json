@@ -6,19 +6,13 @@
     "demo": "https://youtu.be/1gU4hL3K0mA",
     "github": "https://github.com/Aayush-kumar-ctrl/object-detection"
   },
+
   {
     "title": "AI Image Generator",
     "description": "Generate AI images using Puter SDK.",
     "tech": "JavaScript • Html • CSS",
     "demo": "https://youtu.be/1gU4hL3K0mA",
     "github": "https://github.com/Aayush-kumar-ctrl/ai-image-generator"
-  },
-  {
-    "title": "Portfolio Website",
-    "description": "Website for schowcasing my work.",
-    "tech": "JS • HTML • CSS ",
-    "demo": "https://youtu.be/1gU4hL3K0mA",
-    "github": "https://github.com/Aayush-kumar-ctrl/my-portfolio-site"
   },
 
   {
@@ -54,14 +48,6 @@
   },
 
   {
-    "title": "ChatBot",
-    "description": "ChatBot for Business Related Querries.",
-    "tech": "JavaScript • Html • CSS",
-    "demo": "https://youtu.be/1gU4hL3K0mA",
-    "github": "https://github.com/Aayush-kumar-ctrl/chatbot"
-  },
-
-  {
     "title": "Buzzer Project",
     "description": "Buzzer Activated on clicking the button.",
     "tech": "HTML",
@@ -69,29 +55,6 @@
     "github": "https://github.com/Aayush-kumar-ctrl/buzzer-project"
   },
 
-  {
-    "title": "Demo Portfolio Website 2.0 ",
-    "description": "Portfolio Website For Projects Showcase.",
-    "tech": "HTML",
-    "demo": "https://youtu.be/1gU4hL3K0mA",
-    "github": "https://github.com/Aayush-kumar-ctrl/portfolio_site_2.0"
-  },
-
-  {
-    "title": "Stock Price Predictor",
-    "description": "Algorithm for stock price prdiction .",
-    "tech": "Python",
-    "demo": "https://youtu.be/1gU4hL3K0mA",
-    "github": "https://github.com/Aayush-kumar-ctrl/stock-price-prediction"
-  },
-
-  {
-    "title": "Demo Portfolio Website",
-    "description": "Demo portfolio website.",
-    "tech": "JS",
-    "demo": "https://youtu.be/1gU4hL3K0mA",
-    "github": "https://github.com/Aayush-kumar-ctrl/portfolio-site"
-  },
 
   {
     "title": "Falling Bricks Game",
@@ -99,30 +62,6 @@
     "tech": "Python",
     "demo": "https://youtu.be/1gU4hL3K0mA",
     "github": "https://github.com/Aayush-kumar-ctrl/falling-brick"
-  },
-
-  {
-    "title": "Music Player",
-    "description": "Music Player ",
-    "tech": "HTML",
-    "demo": "https://youtu.be/1gU4hL3K0mA",
-    "github": "https://github.com/Aayush-kumar-ctrl/Music-player"
-  },
-
-  {
-    "title": "AI Resume Evaluator",
-    "description": "Resume evaluator using AI.",
-    "tech": "JS",
-    "demo": "https://youtu.be/1gU4hL3K0mA",
-    "github": "https://github.com/Aayush-kumar-ctrl/resume-evaluator"
-  },
-
-  {
-    "title": "Hand Gesture Media Controller",
-    "description": "Control media using hand gestures.",
-    "tech": "Python",
-    "demo": "https://youtu.be/1gU4hL3K0mA",
-    "github": "https://github.com/Aayush-kumar-ctrl/hand_gesture_media_player"
   },
 
   {
@@ -134,11 +73,11 @@
   },
 
   {
-    "title": "Calculator App",
-    "description": "A simple calculator application.",
-    "tech": "JS",
-    "github": "https://github.com/Aayush-kumar-ctrl/chatgpt-calculator",
-    "demo": "https://youtu.be/1gU4hL3K0mA"
-
+    "title": "Smart To Do List",
+    "description": "A fun to do list app, with gamefication.",
+    "tech": "JS, React",
+    "demo": "https://youtu.be/1gU4hL3K0mA",
+    "github": "https://github.com/Aayush-kumar-ctrl/smart"
   }
+
 ]

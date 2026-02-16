@@ -9,6 +9,8 @@ The project demonstrates core front-end development skills and modern web design
 
 Showcase personal projects and technical skills
 
+Showcase demo videos the projects
+
 Provide professional online presence
 
 Demonstrate front-end development knowledge
